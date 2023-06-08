@@ -40,4 +40,11 @@ Fala Devs, beleza? 🖖
 - Dia 20 - Botão com efeito
 - Dia 21 - Esferas quicando
 - Dia 22 - Ícones com efeito
-- Dia 23 - Bot
+- Dia 23 - Botão com efeito hover
+- Dia 24 - Preloader animado
+- Dia 25 - Checkbox animado
+- Dia 26 - Loading com efeito
+- Dia 27 - Efeito pulsar
+- Dia 28 - Cor do background mudando
+- Dia 29 - Menu responsivo com Media Queries
+- Dia 30 - Fogos de artifício
