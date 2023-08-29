@@ -12,7 +12,6 @@ Fala Devs, beleza? 🖖
 - O projeto deve ser concluído até 23:59
 
 ## Youtube Referências dos desafios
-- [Online Tutorials](https://youtube.com/onlineTutorials)
 - [Creative Creations](https://youtube.com/creativeCreations)
 - [DarkCode](https://youtube.com/darkCode)
 
